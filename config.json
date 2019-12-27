@@ -1,0 +1,17 @@
+{
+    "payRate": 99.99,
+    "maritalStatus": "single",
+    "dependants": 1,
+    "allowances": {
+        "federal": 1,
+        "state": 1,
+        "local": 1
+    },
+    "taxes": {
+        "federal": 0.0917,
+        "state": 0.0435,
+        "local": 0.0,
+        "socialSec": 0.0620,
+        "medicare": 0.0145
+    }
+}
